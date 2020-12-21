@@ -1,3 +1,3 @@
 Salut les codeurs !! 
 
-j'ai réussi à faire mon premier depôt dur Github
+j'ai réussi à faire mon premier depôt sur Github
